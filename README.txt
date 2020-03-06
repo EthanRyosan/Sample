@@ -1,1 +1,2 @@
+HELLO JAPAN!
 Hello World!
